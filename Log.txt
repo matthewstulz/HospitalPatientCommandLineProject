@@ -1,0 +1,6 @@
+The file of patients has been uploaded
+Shan Eliz Murphree  has been treated
+All patients have been printed out by doctor
+All patients that were in the system have been treated
+Shan Eliz Murphree  is the next patient to be treated
+All patients have been treated
